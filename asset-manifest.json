@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Login-cum-SignUp-Authentication/static/css/main.8557f35f.chunk.css",
+    "main.js": "/Login-cum-SignUp-Authentication/static/js/main.137a411f.chunk.js",
+    "main.js.map": "/Login-cum-SignUp-Authentication/static/js/main.137a411f.chunk.js.map",
+    "runtime-main.js": "/Login-cum-SignUp-Authentication/static/js/runtime-main.21b6da74.js",
+    "runtime-main.js.map": "/Login-cum-SignUp-Authentication/static/js/runtime-main.21b6da74.js.map",
+    "static/js/2.0356524d.chunk.js": "/Login-cum-SignUp-Authentication/static/js/2.0356524d.chunk.js",
+    "static/js/2.0356524d.chunk.js.map": "/Login-cum-SignUp-Authentication/static/js/2.0356524d.chunk.js.map",
+    "index.html": "/Login-cum-SignUp-Authentication/index.html",
+    "precache-manifest.424886c3c604f335aaa3cf85b10e5ad1.js": "/Login-cum-SignUp-Authentication/precache-manifest.424886c3c604f335aaa3cf85b10e5ad1.js",
+    "service-worker.js": "/Login-cum-SignUp-Authentication/service-worker.js",
+    "static/css/main.8557f35f.chunk.css.map": "/Login-cum-SignUp-Authentication/static/css/main.8557f35f.chunk.css.map",
+    "static/js/2.0356524d.chunk.js.LICENSE": "/Login-cum-SignUp-Authentication/static/js/2.0356524d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21b6da74.js",
+    "static/js/2.0356524d.chunk.js",
+    "static/css/main.8557f35f.chunk.css",
+    "static/js/main.137a411f.chunk.js"
+  ]
+}
